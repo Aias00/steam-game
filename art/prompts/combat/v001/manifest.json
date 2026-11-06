@@ -1,0 +1,65 @@
+{
+  "version": "v001",
+  "status": "prompts_prepared_not_generated",
+  "created_at": "2026-11-04T02:52:49.859514+00:00",
+  "reference_style": "Approved characters-v001; no prior SVG identity reference",
+  "generation_performed": false,
+  "items": [
+    {
+      "asset_id": "W01",
+      "name": "星辉弹",
+      "prompt_file": "art/prompts/combat/v001/weapon-pulse.prompt.txt",
+      "sha256": "5f9294f63ce79f3d1256b5ecc0bac8e338c20687f50395f41669450ffa1123f6",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "W02",
+      "name": "环刃",
+      "prompt_file": "art/prompts/combat/v001/weapon-orbit.prompt.txt",
+      "sha256": "b27caa27c4350209f1417aaa1d29b39b6c47e9d73e1b86a4edcac15f3ec393bc",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "W03",
+      "name": "引力新星",
+      "prompt_file": "art/prompts/combat/v001/weapon-nova.prompt.txt",
+      "sha256": "06fd60c8a5f52f6465f839ee8153e76a5cd269952e606c8ce645e9d7c058d70a",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "W04",
+      "name": "锚灯炮台",
+      "prompt_file": "art/prompts/combat/v001/weapon-turret.prompt.txt",
+      "sha256": "86036736da4efb0e8e523e0700c08287f96d4140834ced7fd1b858be1da819fa",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "E01",
+      "name": "苔影追击者",
+      "prompt_file": "art/prompts/combat/v001/enemy-chaser.prompt.txt",
+      "sha256": "09610d0e5e9a244294f4854be2c585da12308702367b12da7319c52054377364",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "E02",
+      "name": "裂隙疾行者",
+      "prompt_file": "art/prompts/combat/v001/enemy-runner.prompt.txt",
+      "sha256": "3c759469da6d0a21aa20e18295ef0f911865828befee17917005420f69d1032c",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "E03",
+      "name": "铜壳守卫",
+      "prompt_file": "art/prompts/combat/v001/enemy-tank.prompt.txt",
+      "sha256": "d80d0be5b62048bff47c7e678e5b8f3ddc50f07a955cf739520754eb904a419d",
+      "status": "prepared_not_generated"
+    },
+    {
+      "asset_id": "E04",
+      "name": "镜眼术士",
+      "prompt_file": "art/prompts/combat/v001/enemy-caster.prompt.txt",
+      "sha256": "80be885e5f2cc2bcb2b4b3cb2820162f0e0793ac53ce9a2b3a995e4d9be39089",
+      "status": "prepared_not_generated"
+    }
+  ]
+}

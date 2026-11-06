@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "status": "design_only_not_runtime_configuration",
+  "units": {"time": "seconds", "distance": "Godot world units", "chance": "0..1"},
+  "critical": {"base_chance": 0.05, "max_chance": 0.35, "damage_multiplier": 1.5, "lens_chance_per_level": 0.03, "enemy_can_crit": false, "world_turret_can_crit": false, "fragment_inherits_parent_result": true},
+  "weapons": {
+    "pulse": {"name": "星辉弹", "damage": [26,29,32,35,38,42], "cooldown": [0.75,0.72,0.69,0.65,0.60,0.55], "projectiles_per_attack": [1,1,2,2,3,3], "pierce": [0,0,0,1,1,1], "speed": 590, "range": 700, "burst_spacing": 0.04, "local_crit_bonus": 0.05, "crit_roll": "per_primary_projectile", "evolution": "star_rain"},
+    "orbit": {"name": "环刃", "damage": [14,16,19,22,25,28], "blades": [2,2,3,3,4,5], "radius": [80,85,90,95,100,105], "rotation_rad_per_second": 2.7, "shared_target_hit_interval": 0.25, "local_crit_bonus": 0, "crit_roll": "per_accepted_target_hit", "evolution": "double_orbit"},
+    "nova": {"name": "引力新星", "damage": [45,55,65,75,85,100], "cooldown": [3.0,2.8,2.6,2.4,2.25,2.1], "radius": [135,155,175,195,215,235], "impact_delay": 0.12, "knockback": 35, "local_crit_bonus": 0, "crit_roll": "per_cast_shared_by_targets", "evolution": "gravity_well"},
+    "turret": {"name": "锚灯炮台", "damage": [20,23,26,29,32,36], "shot_cooldown": [0.85,0.80,0.75,0.70,0.65,0.55], "deploy_cooldown": [6,6,5.8,5.5,5.2,5], "lifetime": [10,11,12,13,14,16], "range": 360, "max_units": 2, "local_crit_bonus": 0, "crit_roll": "per_turret_projectile", "evolution": "mobile_beacon"}
+  },
+  "evolutions": {
+    "star_rain": {"name": "折光星雨", "base_weapon": "pulse", "module": "lens", "fragment_count": 2, "fragment_base_damage_ratio": 0.35, "split_at_most_once_per_primary_projectile": true, "fragments_can_split": false, "fragments_can_pierce": false},
+    "double_orbit": {"name": "双层星环", "base_weapon": "orbit", "module": "stabilizer", "rings": 2, "hit_interval_per_ring_per_target": 0.35},
+    "gravity_well": {"name": "坍缩之井", "base_weapon": "nova", "module": "gravity_box", "pull_duration": 0.45, "burst_damage": 150, "boss_displacement": false},
+    "mobile_beacon": {"name": "巡航灯塔", "base_weapon": "turret", "module": "battery", "max_fixed_units": 1, "max_mobile_units": 1, "mobile_speed": 120}
+  },
+  "enemies": {
+    "chaser": {"name": "苔影追击者", "hp": 24, "speed": 62, "radius": 15, "contact_damage": 9, "xp": 1},
+    "runner": {"name": "裂隙疾行者", "hp": 18, "speed": 95, "radius": 11, "contact_damage": 10, "xp": 1, "windup": 0.8, "charge_speed": 260, "charge_duration": 0.45, "charge_cooldown": 3.0},
+    "tank": {"name": "铜壳守卫", "hp": 90, "speed": 38, "radius": 23, "contact_damage": 16, "xp": 3},
+    "caster": {"name": "镜眼术士", "hp": 38, "speed": 52, "radius": 17, "contact_damage": 9, "xp": 1, "attack_range": 300, "attack_cooldown": 2.6, "windup": 0.7, "projectile_speed": 185, "projectile_damage": 10}
+  },
+  "elite": [{"id": "tri_sector_guard", "name": "三扇监守", "spawn_time": 180, "hp": 1200, "damage": 16, "xp": 15, "fragments": 1}, {"id": "split_mirror", "name": "裂镜司仪", "spawn_time": 360, "hp": 2200, "damage": 12, "xp": 15, "fragments": 1}],
+  "boss": {"id": "lost_warden", "name": "失序守望者", "hp": 12000, "spawn_time": 540, "deadline": 660, "normal_spawn_stop": 600, "phase_thresholds": [0.6,0.3], "ring_damage": 18, "charge_damage": 22, "beam_damage": 18},
+  "caps": {"normal_enemies": 140, "elites": 2, "boss": 1, "ordinary_xp_entities": 350, "live_damage_text": 40, "cosmetic_particles": 300, "friendly_trails": 60},
+  "player": {"dash_invulnerability": 0.18, "hurt_protection": 0.65, "hurtbox_radius": 12, "shield_cap_robot": 20, "shield_safe_time_robot": 6},
+  "spawn_stages": [
+    {"from": 0, "to": 30, "per_second": 0.75, "weights": {"chaser":100,"runner":0,"tank":0,"caster":0}},
+    {"from": 30, "to": 90, "per_second": 1.0, "weights": {"chaser":80,"runner":20,"tank":0,"caster":0}},
+    {"from": 90, "to": 135, "per_second": 1.6, "weights": {"chaser":65,"runner":20,"tank":15,"caster":0}},
+    {"from": 135, "to": 180, "per_second": 2.3, "weights": {"chaser":55,"runner":20,"tank":15,"caster":10}},
+    {"from": 180, "to": 300, "per_second": 3.3, "weights": {"chaser":40,"runner":25,"tank":20,"caster":15}},
+    {"from": 300, "to": 420, "per_second": 5.0, "weights": {"chaser":30,"runner":30,"tank":25,"caster":15}},
+    {"from": 420, "to": 540, "per_second": 7.5, "weights": {"chaser":30,"runner":30,"tank":25,"caster":15}},
+    {"from": 540, "to": 600, "per_second": 3.75, "weights": {"chaser":30,"runner":30,"tank":25,"caster":15}},
+    {"from": 600, "to": 660, "per_second": 0, "weights": {"chaser":30,"runner":30,"tank":25,"caster":15}}
+  ]
+}

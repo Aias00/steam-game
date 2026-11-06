@@ -1,0 +1,8 @@
+{
+  "provider": "Google Gemini API",
+  "operation": "models discovery",
+  "observed_http_status": 400,
+  "observed_error_reason": "API_KEY_INVALID",
+  "generation_performed": false,
+  "credentials_saved": false
+}

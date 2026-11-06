@@ -1,0 +1,23 @@
+Use case: stylized-concept
+Asset type: original game character concept art for Orbit Survivor; one full-body robot illustration, not a UI mockup and not a sprite sheet.
+
+Primary request:
+Create a polished, appealing, genuinely hand-painted 2D concept illustration of Luodeng, an old observatory maintenance robot with a warm chest lamp and a gentle, earnest personality. This is the companion design to an adult female star cartographer from the same fantasy-adventure world. The artwork should feel art-directed and suitable as the foundation for a commercial indie game's character selection art. Make it endearing through proportion, posture and mechanical design rather than by copying a recognizable film or game robot.
+
+Subject and identity:
+One small, sturdy bipedal maintenance robot. A rounded oval ceramic torso, a compact integrated upper shell, short articulated legs and wide practical feet give it a low center of gravity. It is clearly a purpose-built machine, not a human wearing robot armor. Its upper shell contains one modest horizontal expression window with two short cyan eye marks; a slight asymmetry in the eyes conveys curiosity and quiet friendliness. Include a single gently bent antenna. Avoid a separate oversized rectangular head or binocular eyes.
+
+Mechanical design and signature features:
+The main shell is old cream-colored ceramic over an aged-bronze and graphite mechanism. A warm circular lamp is embedded slightly to one side of its chest, with a different bronze repair patch on the other side. The lamp is the main visual focal point after the expression window; it casts a little warm reflected light on the nearby shell. The robot has two different working arms: one larger round-ended maintenance pincer and one smaller versatile gripping hand. Show plausible joints and attachment points with a few broad, well-placed seams, fasteners and worn edges. Keep the design clean and readable; do not cover every surface with circuit patterns or decorative greebles. Any identification plate is blank.
+
+Pose and framing:
+Single character, head-to-toe, three-quarter view. The body leans forward slightly, one maintenance pincer raised in a friendly inspecting or greeting gesture while the other hand hangs naturally. The short legs support a believable sense of weight; it feels ready to take a small purposeful step. Keep the antenna, both hands and both feet entirely inside the frame, with comfortable breathing room. The robot occupies roughly 75 to 80 percent of the image height. Do not add human companions, extra robots, multiple views, inset portraits or text labels.
+
+Style and materials:
+Refined fantasy-adventure illustration with painterly brushwork, confident selective linework and soft-to-crisp edge control, matching a hand-painted Japanese-inspired indie game character art direction. Use clear large shapes and charming but restrained proportions. Establish ceramic volume, brushed bronze, flexible joint material and slightly dusty edges through painting and lighting, not outlined flat fills. Include subtle surface variation and useful wear marks without making it dirty or dilapidated. It should feel like a lovingly maintained older machine, not a glossy collectible toy, a generic sci-fi soldier, a low-poly object or an SVG assembled from circles and rectangles.
+
+Lighting, palette and background:
+Soft warm key light from the upper left with restrained cool reflected rim light. Main colors: warm cream ceramic, aged bronze, graphite joints, a small amount of muted lake-blue in the expression window, and a honey-gold chest lamp. Use rich readable midtones, soft contact shadows and selective highlights. Use the same simple warm-gray to pale-sage painterly studio backdrop and subtle ground shadow as the companion character. Keep the image bright enough to read against a game interface. The backdrop is opaque, not transparent.
+
+Constraints and avoid:
+Original robot only; do not reproduce a recognizable film, animation or game character. No text, numbers, lettering, logos, watermarks, UI frames, stat panels or labels. No cropped feet, duplicated limbs, floating unconnected joints, human face, exposed human body, tactical guns, massive armor, hover-only body, giant lenses, oversized black faceplate, aggressive red eyes, photorealistic photography, 3D render, CAD style, plastic toy finish, flat vector shading, thick uniform outlines, overly complex micro-detail, excessive scratches, dark muddy background or giant light bloom. Do not use the project's rejected SVG robot as an image reference.

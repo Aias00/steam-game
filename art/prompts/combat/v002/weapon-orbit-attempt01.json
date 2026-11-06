@@ -1,0 +1,9 @@
+{
+  "asset_id": "W02",
+  "attempt": 1,
+  "started_at": "2026-11-04T07:37:16.289560+00:00",
+  "model": "gpt-image-2",
+  "status": "generated",
+  "exit_code": 0,
+  "completed_at": "2026-11-04T07:38:36.544586+00:00"
+}

@@ -1,0 +1,11 @@
+Input reference roles:
+Image 1: approved Jiyue character illustration, STYLE AND LIGHTING REFERENCE ONLY.
+Image 2: approved Luodeng robot illustration, STYLE AND MATERIAL REFERENCE ONLY.
+Match their painterly edges, warm neutral background, aged bronze and believable material volume. Do not reproduce the woman, the robot, their poses or any of their body parts. The new subject is described below. Output ONE new subject only, not a combined sheet or scene with the references.
+
+Use case: stylized-concept
+Asset type: one original combat art concept for the game Orbit Survivor, not a finished animation, not a sprite sheet and not a UI screenshot.
+
+Art direction: match the approved warm painterly fantasy-adventure character direction: creamy ceramic, aged bronze, slightly weathered astronomical machinery, restrained star-light accents and convincing painted volume. Refined selective linework, brush texture, clear large shapes, rich midtones and soft warm studio lighting. Original design, not a replica of a known franchise and not a generic flat vector symbol or low-poly object. A simple warm-gray to pale-sage opaque studio background with a soft restrained ground shadow. Keep the subject complete, centered, with clear margins. No lettering, labels, UI, border, contact sheet, swatches, watermark or extra subjects. This first pass establishes the object or creature design; actual alpha cutouts and animation will be separate deliverables.
+
+Specific subject: Weapon concept: one compact aged-bronze star projector, with a short directional barrel, three readable focusing sections, and one small pale-blue/white star core. Show the complete object in a three-quarter object view. A clean directional silhouette, a functional grip or wrist mount, restrained engraved astronomy marks, no readable writing. It is a light precision device rather than an oversized modern rifle. It must remain recognizable as a 64px weapon icon. Do not include hands or a character; do not draw a whole gunfight or firing scene.

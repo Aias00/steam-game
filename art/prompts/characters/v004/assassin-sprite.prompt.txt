@@ -1,0 +1,5 @@
+Use case: identity-preserve
+Asset type: single isolated gameplay character sprite for painterly roguelite survival game.
+Input image: assassin concept, identity and costume reference. Preserve adult male face, charcoal hair with silver streak, smoky short scarf, slate light outfit with muted teal, bronze wrist rings and TWO small crescent cutters.
+Redraw as compact readable gameplay sprite viewed from 35 degree overhead, facing lower right. Entire body and feet visible, centered, generous margins. Slightly enlarged head for 64–96 pixel readability, adult proportions, confident low ready stance. Hold both curved cutters low outside the torso so their silhouettes remain readable. Warm ivory edge lighting, clear values, hand-painted finish matching reference. Short scarf, no long trails.
+Backdrop: perfectly uniform bright green #00FF00, no floor, shadow, fog, particles or glow outside the figure. No text, UI, additional views, duplicates, orbiting blades, separate weapons or environment. One character only. This is a static pose, not an animation sheet.

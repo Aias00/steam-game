@@ -1,0 +1,10 @@
+{
+  "provider": "cloudbase",
+  "base_url": "http://100.115.150.8:3425/v1",
+  "time": "2026-11-03T09:30:14.026857+00:00",
+  "model": "gpt-image-2",
+  "prompt_file": "art/prompts/characters/v001/luodeng.prompt.txt",
+  "status": "failed",
+  "exit_code": 1,
+  "output_exists": false
+}

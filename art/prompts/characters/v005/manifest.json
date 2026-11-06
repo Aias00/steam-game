@@ -1,0 +1,376 @@
+{
+  "version": "v005",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "status": "processed_visually_reviewed_prototype",
+  "items": [
+    {
+      "id": "guard",
+      "prompt": "art/prompts/characters/v005/guard-walk.prompt.txt",
+      "reference": "output/imagegen/characters-v004/guard-sprite-512.png",
+      "prompt_sha256": "f2795e637c52f183d03fb397e05163fe0ee31ae61c616bf200000cdd1e3e296f",
+      "reference_sha256": "8f9d4691f9d22438c322c8e79dddb3427daac446ea5c08ea76b08e087cc45ec9",
+      "output": "output/imagegen/characters-v005/guard-walk-raw.png",
+      "status": "processed_pending_visual_review",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "actual_mode": "RGBA",
+      "raw_sha256": "9f78beecb19363e9245e103b828821f91a7cf75d3840aa4b93043044b92a9347",
+      "cell_bounds": [
+        [
+          66,
+          29,
+          546,
+          573
+        ],
+        [
+          82,
+          28,
+          544,
+          569
+        ],
+        [
+          60,
+          27,
+          554,
+          575
+        ],
+        [
+          86,
+          29,
+          551,
+          571
+        ]
+      ],
+      "runtime": "art/runtime/characters/guard-walk.png",
+      "runtime_sha256": "f08fec501f72e18175331ccf57ce8b71e11cf5a7a5f37b38b65294f7d2fb9129",
+      "frames": [
+        {
+          "file": "output/imagegen/characters-v005/guard-walk-0.png",
+          "sha256": "677c68f5dc8fed3858762aa63cfa7016c85507c504aa108dfa8af25d11fa9236"
+        },
+        {
+          "file": "output/imagegen/characters-v005/guard-walk-1.png",
+          "sha256": "cb3279db836afc770cde6e8b0c663a2a83d5fe4de5eae1d87dba8c70c6c948a5"
+        },
+        {
+          "file": "output/imagegen/characters-v005/guard-walk-2.png",
+          "sha256": "d23ab93a6aeecd7e35fdc69ca6480517fa3b5a1b0d88df749ee4ddc925070c23"
+        },
+        {
+          "file": "output/imagegen/characters-v005/guard-walk-3.png",
+          "sha256": "ede84d4f9a2550cf755d28b25f81b71f9d590aa41c7871b58ded000bd0c9ecfb"
+        }
+      ]
+    },
+    {
+      "id": "ranger",
+      "prompt": "art/prompts/characters/v005/ranger-walk.prompt.txt",
+      "reference": "output/imagegen/characters-v004/ranger-sprite-512.png",
+      "prompt_sha256": "f2795e637c52f183d03fb397e05163fe0ee31ae61c616bf200000cdd1e3e296f",
+      "reference_sha256": "03c0843099e64bb3717d8185be34f1acdea862de2b82f4f002de8f39f96aad07",
+      "output": "output/imagegen/characters-v005/ranger-walk-raw.png",
+      "status": "processed_pending_visual_review",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "actual_mode": "RGB",
+      "raw_sha256": "5852cbb8c37f912c3129618ebfa1d3af1766315c6dd64c8395033d79b63389a3",
+      "cell_bounds": [
+        [
+          186,
+          32,
+          481,
+          577
+        ],
+        [
+          189,
+          26,
+          492,
+          578
+        ],
+        [
+          175,
+          28,
+          505,
+          578
+        ],
+        [
+          185,
+          31,
+          481,
+          581
+        ]
+      ],
+      "runtime": "art/runtime/characters/ranger-walk.png",
+      "runtime_sha256": "eba84c93622ed47a14bcaa70ed4fe05969367345968ecfb888ad275e63551ec7",
+      "frames": [
+        {
+          "file": "output/imagegen/characters-v005/ranger-walk-0.png",
+          "sha256": "f60147b37285d17f5d7f0558791eb2080854f905569be14e48bec38a6963cc51"
+        },
+        {
+          "file": "output/imagegen/characters-v005/ranger-walk-1.png",
+          "sha256": "4b28f316b271cdc6852c3a5e2f2d19aa852e2ed8a2883dc2e3490483e8187934"
+        },
+        {
+          "file": "output/imagegen/characters-v005/ranger-walk-2.png",
+          "sha256": "11d29701e71b89176eedebaee8edf1999fe588bae920756981349e6eb16e85a0"
+        },
+        {
+          "file": "output/imagegen/characters-v005/ranger-walk-3.png",
+          "sha256": "2e93d4e71be8d5ee37a3ad16e49c7232a66d5c65bbadb53919d3f72f024072d8"
+        }
+      ]
+    },
+    {
+      "id": "engineer",
+      "prompt": "art/prompts/characters/v005/engineer-walk.prompt.txt",
+      "reference": "output/imagegen/characters-v004/engineer-sprite-512.png",
+      "prompt_sha256": "f2795e637c52f183d03fb397e05163fe0ee31ae61c616bf200000cdd1e3e296f",
+      "reference_sha256": "159c0e935129a457f45ab981a61fe156f0b3cd882262b889a2bf18d324c66a16",
+      "output": "output/imagegen/characters-v005/engineer-walk-raw.png",
+      "status": "processed_pending_visual_review",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "actual_mode": "RGB",
+      "raw_sha256": "9721a9474f4e33f6df2232452bd843344fdc0c28b65a6c56c91687c943795538",
+      "cell_bounds": [
+        [
+          161,
+          26,
+          488,
+          555
+        ],
+        [
+          155,
+          21,
+          465,
+          567
+        ],
+        [
+          163,
+          25,
+          497,
+          571
+        ],
+        [
+          157,
+          24,
+          467,
+          548
+        ]
+      ],
+      "runtime": "art/runtime/characters/engineer-walk.png",
+      "runtime_sha256": "d44f69c450bd6fb402a8ddd975300c8922a3df86951c2a49f8044e1614f06253",
+      "frames": [
+        {
+          "file": "output/imagegen/characters-v005/engineer-walk-0.png",
+          "sha256": "2eca91e90ddc4ec8845a022299c42aad53fb997007d22242d6012fb7be6ff323"
+        },
+        {
+          "file": "output/imagegen/characters-v005/engineer-walk-1.png",
+          "sha256": "e48dc4f4fe068619c398c5150950b8e9d0aee13c7bc6a922ca5fae6779510335"
+        },
+        {
+          "file": "output/imagegen/characters-v005/engineer-walk-2.png",
+          "sha256": "c575cc5c9ada49b0a062f606b4b1665b749c3b5cbc32bc7865a6cee4dd2fe5b6"
+        },
+        {
+          "file": "output/imagegen/characters-v005/engineer-walk-3.png",
+          "sha256": "9de931e5b202285fc264936591901f2e4d41b23b703b3b5b7533375ad89bae77"
+        }
+      ]
+    },
+    {
+      "id": "starmapper",
+      "prompt": "art/prompts/characters/v005/starmapper-walk.prompt.txt",
+      "reference": "output/imagegen/characters-v002/jiyue-sprite-512.png",
+      "prompt_sha256": "f2795e637c52f183d03fb397e05163fe0ee31ae61c616bf200000cdd1e3e296f",
+      "reference_sha256": "e24efa6583c0ac558a828b9b9cc9de760e84ec77861b89100541a0cc6bfba43a",
+      "output": "output/imagegen/characters-v005/starmapper-walk-raw.png",
+      "status": "processed_pending_visual_review",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "actual_mode": "RGB",
+      "raw_sha256": "094dada187881a1726fc7a950da84636e31c96182bde57dfe0f0ba846d4533d2",
+      "cell_bounds": [
+        [
+          160,
+          25,
+          462,
+          588
+        ],
+        [
+          166,
+          23,
+          458,
+          585
+        ],
+        [
+          170,
+          28,
+          465,
+          592
+        ],
+        [
+          178,
+          26,
+          460,
+          589
+        ]
+      ],
+      "runtime": "art/runtime/characters/starmapper-walk.png",
+      "runtime_sha256": "db5b0119ac36a9f69558bd3457a21e160ec31b737b3e6d0e6f5fef42537dccd3",
+      "frames": [
+        {
+          "file": "output/imagegen/characters-v005/starmapper-walk-0.png",
+          "sha256": "5619f8f7d7ae74d5a7b4f53ebe789e0a1e3cb8c1c15d38310467a190f672b9be"
+        },
+        {
+          "file": "output/imagegen/characters-v005/starmapper-walk-1.png",
+          "sha256": "5cb3abc14eaa020c81f3c945f24cded7c93209bd6c95a2d3a0ef26c3bd392ead"
+        },
+        {
+          "file": "output/imagegen/characters-v005/starmapper-walk-2.png",
+          "sha256": "79621bb5e51f68b4206facb7d85ac4831f5eca88ba2f86d95bee4fe6f245aa4b"
+        },
+        {
+          "file": "output/imagegen/characters-v005/starmapper-walk-3.png",
+          "sha256": "88906951380e4f80818342496a94e79cfa5ebb99dc9fd4d6faebb1715507ed15"
+        }
+      ]
+    },
+    {
+      "id": "robot",
+      "prompt": "art/prompts/characters/v005/robot-walk.prompt.txt",
+      "reference": "output/imagegen/characters-v002/luodeng-sprite-512.png",
+      "prompt_sha256": "f2795e637c52f183d03fb397e05163fe0ee31ae61c616bf200000cdd1e3e296f",
+      "reference_sha256": "c3a566e5d7065b2916f776aa189d7d9c639c3c1186ad4c19d2e18b6b64579363",
+      "output": "output/imagegen/characters-v005/robot-walk-raw.png",
+      "status": "processed_pending_visual_review",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "actual_mode": "RGB",
+      "raw_sha256": "7b9a582b408b3b7dae6e10f0dea68d7dceab78ea5c52d1f1ad7b263dffacfbaf",
+      "cell_bounds": [
+        [
+          151,
+          35,
+          551,
+          538
+        ],
+        [
+          84,
+          30,
+          542,
+          552
+        ],
+        [
+          140,
+          34,
+          550,
+          547
+        ],
+        [
+          89,
+          27,
+          543,
+          519
+        ]
+      ],
+      "runtime": "art/runtime/characters/robot-walk.png",
+      "runtime_sha256": "fd6d19b9c2ec2b27776245ca9a7e8842d774d7bdf4fb17e3eabe81ddc4d29519",
+      "frames": [
+        {
+          "file": "output/imagegen/characters-v005/robot-walk-0.png",
+          "sha256": "f493367d8d6ea8fb7ee552292d2c9cb96d471ce45f7a405f72f248f35df48c5c"
+        },
+        {
+          "file": "output/imagegen/characters-v005/robot-walk-1.png",
+          "sha256": "edea2aaacaf9923df4f233a398d485be988db3c4bc54723c54e6a80d88faedd0"
+        },
+        {
+          "file": "output/imagegen/characters-v005/robot-walk-2.png",
+          "sha256": "beb93165dcb75471c95172cb46d0a8b160c857b03f93b6ec66f54cd96215692f"
+        },
+        {
+          "file": "output/imagegen/characters-v005/robot-walk-3.png",
+          "sha256": "4dfff38b3ffd0df5194744d0fc45a13e6d554109cefdcf1dc862995b575f36c5"
+        }
+      ]
+    },
+    {
+      "id": "assassin",
+      "prompt": "art/prompts/characters/v005/assassin-walk.prompt.txt",
+      "reference": "output/imagegen/characters-v004/assassin-sprite-512.png",
+      "prompt_sha256": "f2795e637c52f183d03fb397e05163fe0ee31ae61c616bf200000cdd1e3e296f",
+      "reference_sha256": "0a7c448002f90a413383a6589a8ed6cfcb9a534ccaa15be409017ded649def23",
+      "output": "output/imagegen/characters-v005/assassin-walk-raw.png",
+      "status": "processed_pending_visual_review",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "actual_mode": "RGB",
+      "raw_sha256": "c47861ec1042b9ccffabc1f2610ad607a8b15f7ea3aa12247f7f3290de67f786",
+      "cell_bounds": [
+        [
+          127,
+          23,
+          515,
+          581
+        ],
+        [
+          120,
+          24,
+          527,
+          567
+        ],
+        [
+          150,
+          24,
+          512,
+          566
+        ],
+        [
+          124,
+          24,
+          523,
+          549
+        ]
+      ],
+      "runtime": "art/runtime/characters/assassin-walk.png",
+      "runtime_sha256": "fba48b2cdd321b3778f5e0ea26a469c892adfe6894a5d2072c2191dca5de3a70",
+      "frames": [
+        {
+          "file": "output/imagegen/characters-v005/assassin-walk-0.png",
+          "sha256": "2eff71e268bf4114085bb5232ac384693b2b8eba215473774870a4d16b4c7aa9"
+        },
+        {
+          "file": "output/imagegen/characters-v005/assassin-walk-1.png",
+          "sha256": "c97188048725a9d792f6c2fa2537c52cf5d5ca53a193a375ce62b7b3864c4b2c"
+        },
+        {
+          "file": "output/imagegen/characters-v005/assassin-walk-2.png",
+          "sha256": "bea7804d56c8b82d12595ed8ba432fdf3d7d066acaec49b743621039f62dbad8"
+        },
+        {
+          "file": "output/imagegen/characters-v005/assassin-walk-3.png",
+          "sha256": "e354d9936436363162a6152efe9e7af5163c983f44394337b08b20894b203584"
+        }
+      ]
+    }
+  ],
+  "limitations": "four-pose prototype with some similar poses and detail variation; mirrored horizontal facing, not eight authored directions",
+  "runtime_tests": "motion_test.gd and six-role rendered keyboard checks"
+}

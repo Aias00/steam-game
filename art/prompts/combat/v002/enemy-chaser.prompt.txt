@@ -1,0 +1,11 @@
+Input reference roles:
+Image 1: approved Jiyue character illustration, STYLE AND LIGHTING REFERENCE ONLY.
+Image 2: approved Luodeng robot illustration, STYLE AND MATERIAL REFERENCE ONLY.
+Match their painterly edges, warm neutral background, aged bronze and believable material volume. Do not reproduce the woman, the robot, their poses or any of their body parts. The new subject is described below. Output ONE new subject only, not a combined sheet or scene with the references.
+
+Use case: stylized-concept
+Asset type: one original combat art concept for the game Orbit Survivor, not a finished animation, not a sprite sheet and not a UI screenshot.
+
+Art direction: match the approved warm painterly fantasy-adventure character direction: creamy ceramic, aged bronze, slightly weathered astronomical machinery, restrained star-light accents and convincing painted volume. Refined selective linework, brush texture, clear large shapes, rich midtones and soft warm studio lighting. Original design, not a replica of a known franchise and not a generic flat vector symbol or low-poly object. A simple warm-gray to pale-sage opaque studio background with a soft restrained ground shadow. Keep the subject complete, centered, with clear margins. No lettering, labels, UI, border, contact sheet, swatches, watermark or extra subjects. This first pass establishes the object or creature design; actual alpha cutouts and animation will be separate deliverables.
+
+Specific subject: Enemy concept: one low round spore-shell pursuer native to the corrupted observatory garden. Short connected feet, a broad moss-and-stone shell broken by a few restrained red star-corruption cracks. Clearly a small non-humanoid creature, not a person in a hood. Show the complete creature in an elevated three-quarter view facing toward the lower right, ready to shuffle forward. Compact readable silhouette, distinct shell versus soft underside, small hostile directional features. No human clothing, no giant green glowing aura, no detailed scenery, no gore.

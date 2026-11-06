@@ -1,0 +1,287 @@
+{
+  "version": "v002",
+  "created_at": "2026-11-04T01:44:35.614655+00:00",
+  "status": "generated_processed_and_checked",
+  "approved_reference_version": "v001",
+  "requested_model": "gpt-image-2",
+  "mode": "bundled_imagegen_cli_edit",
+  "quality": "high",
+  "requested_size": "1024x1024",
+  "background": "opaque flat #00FF00; alpha will be derived and verified separately",
+  "items": [
+    {
+      "character": "jiyue",
+      "reference": "output/imagegen/characters-v001/jiyue-v001.png",
+      "reference_sha256": "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0",
+      "prompt_file": "art/prompts/characters/v002/jiyue-sprite.prompt.txt",
+      "prompt_sha256": "0c23db94ec191c3953527cb8e09e414a804e17be9c6d24a0388493408cc189ba",
+      "planned_raw_output": "output/imagegen/characters-v002/jiyue-sprite-keyed.png",
+      "status": "generated_processed_and_checked",
+      "avatar_crop": [
+        225,
+        0,
+        700,
+        475
+      ],
+      "avatar_sizes": [
+        512,
+        128,
+        64
+      ],
+      "raw_sha256": "4c34f01325902fb806b794d321bb63c904f3f7faf2d84c7a3a80b72e51c1c91b",
+      "actual_raw_size": [
+        1254,
+        1254
+      ],
+      "actual_raw_mode": "RGBA",
+      "raw_size_matches_request": false,
+      "raw_background": "Service returned real RGBA alpha, not the requested green key",
+      "processing": "Remove alpha<=8 noise; normalize alpha>=240; one-pixel source matte contract; crop visible bounds; preserve aspect ratio; bottom-align with 5.5% padding",
+      "source_alpha_bbox": [
+        334,
+        101,
+        891,
+        1163
+      ],
+      "sprite_variants": [
+        {
+          "file": "output/imagegen/characters-v002/jiyue-sprite-512.png",
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "e24efa6583c0ac558a828b9b9cc9de760e84ec77861b89100541a0cc6bfba43a",
+          "alpha_bbox": [
+            136,
+            28,
+            375,
+            484
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/jiyue-sprite-256.png",
+          "size": [
+            256,
+            256
+          ],
+          "sha256": "8e42d4f290a4d01cd23ef51fac2c42e7e628957eb42eeeb8fe0947ac32a5eb55",
+          "alpha_bbox": [
+            68,
+            14,
+            188,
+            242
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/jiyue-sprite-128.png",
+          "size": [
+            128,
+            128
+          ],
+          "sha256": "46f6273530e51b228821652099a6e3cbe1c4d08b13b83fcbc59a19e05f2aafa6",
+          "alpha_bbox": [
+            34,
+            7,
+            94,
+            121
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/jiyue-sprite-96.png",
+          "size": [
+            96,
+            96
+          ],
+          "sha256": "8b3dcf758c9aab21da7465933e937021f820f2342e7063ffcecabbb47494be2c",
+          "alpha_bbox": [
+            25,
+            5,
+            70,
+            91
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/jiyue-sprite-64.png",
+          "size": [
+            64,
+            64
+          ],
+          "sha256": "2722b4a6144ae2cc36c40c51bbac236977510cff0475efdc68cde06a844d2aab",
+          "alpha_bbox": [
+            17,
+            4,
+            46,
+            60
+          ]
+        }
+      ],
+      "avatar_files": [
+        {
+          "file": "output/imagegen/characters-v002/jiyue-avatar-512.png",
+          "sha256": "dd2d48d57abd0714693dcd835090b04a16a5a068a83b2262d49e27ed29be1d5a"
+        },
+        {
+          "file": "output/imagegen/characters-v002/jiyue-avatar-128.png",
+          "sha256": "7c97339a2185f664becbfb330cffda464ea2e8a8b088c1eba3ef5451f014cfd3"
+        },
+        {
+          "file": "output/imagegen/characters-v002/jiyue-avatar-64.png",
+          "sha256": "5c9615656020fcffa43b6e973d27ddca08a0289f7f2e831b3430168fae09f963"
+        }
+      ]
+    },
+    {
+      "character": "luodeng",
+      "reference": "output/imagegen/characters-v001/luodeng-v001.png",
+      "reference_sha256": "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a",
+      "prompt_file": "art/prompts/characters/v002/luodeng-sprite.prompt.txt",
+      "prompt_sha256": "8082c446592de4337fb6624001459569ca9b7be4d5ae8a067cde61cdf4547387",
+      "planned_raw_output": "output/imagegen/characters-v002/luodeng-sprite-keyed.png",
+      "status": "generated_processed_and_checked",
+      "avatar_crop": [
+        245,
+        35,
+        965,
+        755
+      ],
+      "avatar_sizes": [
+        512,
+        128,
+        64
+      ],
+      "raw_sha256": "097da2ba03236afb19b17189322b06ec438d92ef43d638f0caa0fc838112a518",
+      "actual_raw_size": [
+        1254,
+        1254
+      ],
+      "actual_raw_mode": "RGBA",
+      "raw_size_matches_request": false,
+      "raw_background": "Service returned real RGBA alpha, not the requested green key",
+      "processing": "Remove alpha<=8 noise; normalize alpha>=240; one-pixel source matte contract; crop visible bounds; preserve aspect ratio; bottom-align with 5.5% padding",
+      "source_alpha_bbox": [
+        185,
+        98,
+        1134,
+        1131
+      ],
+      "sprite_variants": [
+        {
+          "file": "output/imagegen/characters-v002/luodeng-sprite-512.png",
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "c3a566e5d7065b2916f776aa189d7d9c639c3c1186ad4c19d2e18b6b64579363",
+          "alpha_bbox": [
+            46,
+            28,
+            465,
+            484
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/luodeng-sprite-256.png",
+          "size": [
+            256,
+            256
+          ],
+          "sha256": "540bf339fc1eb4a5eba7a17ce8d4f19c4c729af97728b7c2dc47608e902c39e8",
+          "alpha_bbox": [
+            23,
+            14,
+            232,
+            242
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/luodeng-sprite-128.png",
+          "size": [
+            128,
+            128
+          ],
+          "sha256": "e3af1c099e1bb18f2d4941d64246d81c3b21aecfeb64b2bb1779a930c138b528",
+          "alpha_bbox": [
+            11,
+            7,
+            116,
+            121
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/luodeng-sprite-96.png",
+          "size": [
+            96,
+            96
+          ],
+          "sha256": "916d44ad35271264c1f5ac12d39b73f5b5fc7261c653117bd6608ae1bd64fa34",
+          "alpha_bbox": [
+            8,
+            5,
+            87,
+            91
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v002/luodeng-sprite-64.png",
+          "size": [
+            64,
+            64
+          ],
+          "sha256": "8b2fd0b36385c418a31448d0e8650edbb564e6db8db435ec0e975efb00b1cdac",
+          "alpha_bbox": [
+            6,
+            4,
+            57,
+            60
+          ]
+        }
+      ],
+      "avatar_files": [
+        {
+          "file": "output/imagegen/characters-v002/luodeng-avatar-512.png",
+          "sha256": "c77bcb66cc63e123839ce424295c62f51af929f9adfd001e0c8c0131cc7adde2"
+        },
+        {
+          "file": "output/imagegen/characters-v002/luodeng-avatar-128.png",
+          "sha256": "16716a8303032efe76a8ab1d6cce183ddfdb1caa9c25b00e45c00c80ad18085c"
+        },
+        {
+          "file": "output/imagegen/characters-v002/luodeng-avatar-64.png",
+          "sha256": "fe1a2b42e0b24be69ca269dbc7cf3aa4a8501639cd8da8805ab38f44f62456e6"
+        }
+      ]
+    }
+  ],
+  "api_secrets_saved": false,
+  "no_actual_gameplay_or_animation_added": true,
+  "reviewed_at": "2026-11-04T02:23:19.518101+00:00",
+  "browser_checks": {
+    "count": 10,
+    "all_passed": true,
+    "covers": [
+      "Approved v001 illustration selected",
+      "Reference-derived portrait in role card and HUD",
+      "Actual 96px transparent gameplay image loaded",
+      "Shield UI exclusive to robot"
+    ],
+    "asset_gallery_image_references": 10,
+    "all_image_references_decoded": true,
+    "tested_widths": [
+      1440,
+      1120
+    ],
+    "horizontal_overflow": false,
+    "console_errors": 0
+  },
+  "derived_previews": [
+    "output/imagegen/characters-v002/asset-board-v002.png",
+    "output/imagegen/characters-v002/roster-jiyue-preview.png",
+    "output/imagegen/characters-v002/battle-luodeng-preview.png"
+  ],
+  "review_notes": [
+    "Identity, outfit palette and robot shell structure remain consistent with approved v001 references.",
+    "64px preserves broad silhouette and main prop; facial detail is limited at actual game size.",
+    "Single idle pose and single facing direction only; animation and production collision-anchor validation remain pending.",
+    "Provider returned existing RGBA alpha despite green-key request; no unnecessary green-key removal was applied."
+  ]
+}

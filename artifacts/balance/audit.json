@@ -1,0 +1,2147 @@
+{
+  "benchmarks": [
+    {
+      "damage": 2236.0,
+      "dps": 37.27,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 2210.0,
+      "dps": 36.83,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 2236.0,
+      "dps": 37.27,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 2262.0,
+      "dps": 37.7,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 2262.0,
+      "dps": 37.7,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 2249.0,
+      "dps": 37.48,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 2210.0,
+      "dps": 36.83,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8180.0,
+      "dps": 136.33,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8180.0,
+      "dps": 136.33,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8220.0,
+      "dps": 137.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8120.0,
+      "dps": 135.33,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8180.0,
+      "dps": 136.33,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 24674.5,
+      "dps": 411.24,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8113.0,
+      "dps": 135.22,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 24674.5,
+      "dps": 411.24,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 24674.5,
+      "dps": 411.24,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8143.5,
+      "dps": 135.73,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 24674.5,
+      "dps": 411.24,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 8113.0,
+      "dps": 135.22,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 20973.33,
+      "dps": 349.56,
+      "level": 6,
+      "part": "P01",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 20973.33,
+      "dps": 349.56,
+      "level": 6,
+      "part": "P01",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 20973.33,
+      "dps": 349.56,
+      "level": 6,
+      "part": "P01",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 6921.98,
+      "dps": 115.37,
+      "level": 6,
+      "part": "P01",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 48894.55,
+      "dps": 814.91,
+      "level": 6,
+      "part": "P01",
+      "role": "",
+      "scenario": "line",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 18505.88,
+      "dps": 308.43,
+      "level": 6,
+      "part": "P02",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 18505.88,
+      "dps": 308.43,
+      "level": 6,
+      "part": "P02",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 29609.4,
+      "dps": 493.49,
+      "level": 6,
+      "part": "P02",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 9772.2,
+      "dps": 162.87,
+      "level": 6,
+      "part": "P02",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 29609.4,
+      "dps": 493.49,
+      "level": 6,
+      "part": "P02",
+      "role": "",
+      "scenario": "line",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 841.5,
+      "dps": 14.03,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 1802.0,
+      "dps": 30.03,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 6944.5,
+      "dps": 115.74,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 1411.0,
+      "dps": 23.52,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 3306.0,
+      "dps": 55.1,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 6278.5,
+      "dps": 104.64,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 27013.5,
+      "dps": 450.23,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 3161.0,
+      "dps": 52.68,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 8060.5,
+      "dps": 134.34,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 12478.5,
+      "dps": 207.98,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 64531.0,
+      "dps": 1075.52,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 8366.0,
+      "dps": 139.43,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 12433.85,
+      "dps": 207.23,
+      "level": 6,
+      "part": "P03",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 16222.05,
+      "dps": 270.37,
+      "level": 6,
+      "part": "P03",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 99654.1,
+      "dps": 1660.9,
+      "level": 6,
+      "part": "P03",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P03",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 11456.25,
+      "dps": 190.94,
+      "level": 6,
+      "part": "P03",
+      "role": "",
+      "scenario": "line",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P04",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 9982.8,
+      "dps": 166.38,
+      "level": 6,
+      "part": "P04",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P04",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P04",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 4361.6,
+      "dps": 72.69,
+      "level": 6,
+      "part": "P04",
+      "role": "",
+      "scenario": "line",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 903.0,
+      "dps": 15.05,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "nova"
+    },
+    {
+      "damage": 903.0,
+      "dps": 15.05,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "nova"
+    },
+    {
+      "damage": 7224.0,
+      "dps": 120.4,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "nova"
+    },
+    {
+      "damage": 1806.0,
+      "dps": 30.1,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "nova"
+    },
+    {
+      "damage": 1587.0,
+      "dps": 26.45,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "nova"
+    },
+    {
+      "damage": 1587.0,
+      "dps": 26.45,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "nova"
+    },
+    {
+      "damage": 12696.0,
+      "dps": 211.6,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "nova"
+    },
+    {
+      "damage": 4761.0,
+      "dps": 79.35,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "nova"
+    },
+    {
+      "damage": 3024.0,
+      "dps": 50.4,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "nova"
+    },
+    {
+      "damage": 3024.0,
+      "dps": 50.4,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "nova"
+    },
+    {
+      "damage": 24624.0,
+      "dps": 410.4,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 24624.0,
+      "dps": 410.4,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "nova"
+    },
+    {
+      "damage": 12312.0,
+      "dps": 205.2,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "nova"
+    },
+    {
+      "damage": 2993.76,
+      "dps": 49.9,
+      "level": 6,
+      "part": "P05",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 2993.76,
+      "dps": 49.9,
+      "level": 6,
+      "part": "P05",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "nova"
+    },
+    {
+      "damage": 23950.08,
+      "dps": 399.17,
+      "level": 6,
+      "part": "P05",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 23950.08,
+      "dps": 399.17,
+      "level": 6,
+      "part": "P05",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "nova"
+    },
+    {
+      "damage": 11975.04,
+      "dps": 199.58,
+      "level": 6,
+      "part": "P05",
+      "role": "",
+      "scenario": "line",
+      "weapon": "nova"
+    },
+    {
+      "damage": 2203.2,
+      "dps": 36.72,
+      "level": 6,
+      "part": "P06",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 2203.2,
+      "dps": 36.72,
+      "level": 6,
+      "part": "P06",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "nova"
+    },
+    {
+      "damage": 17992.8,
+      "dps": 299.88,
+      "level": 6,
+      "part": "P06",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "nova"
+    },
+    {
+      "damage": 17992.8,
+      "dps": 299.88,
+      "level": 6,
+      "part": "P06",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "nova"
+    },
+    {
+      "damage": 8812.8,
+      "dps": 146.88,
+      "level": 6,
+      "part": "P06",
+      "role": "",
+      "scenario": "line",
+      "weapon": "nova"
+    },
+    {
+      "damage": 1720.0,
+      "dps": 28.67,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1700.0,
+      "dps": 28.33,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1720.0,
+      "dps": 28.67,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1720.0,
+      "dps": 28.67,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1720.0,
+      "dps": 28.67,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1720.0,
+      "dps": 28.67,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "turret"
+    },
+    {
+      "damage": 770.0,
+      "dps": 12.83,
+      "level": 1,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "turret"
+    },
+    {
+      "damage": 2752.0,
+      "dps": 45.87,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 2720.0,
+      "dps": 45.33,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "turret"
+    },
+    {
+      "damage": 2752.0,
+      "dps": 45.87,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "turret"
+    },
+    {
+      "damage": 2752.0,
+      "dps": 45.87,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 2752.0,
+      "dps": 45.87,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "turret"
+    },
+    {
+      "damage": 2752.0,
+      "dps": 45.87,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1232.0,
+      "dps": 20.53,
+      "level": 3,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "turret"
+    },
+    {
+      "damage": 4300.0,
+      "dps": 71.67,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 4250.0,
+      "dps": 70.83,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "turret"
+    },
+    {
+      "damage": 4300.0,
+      "dps": 71.67,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "turret"
+    },
+    {
+      "damage": 4300.0,
+      "dps": 71.67,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 4300.0,
+      "dps": 71.67,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "turret"
+    },
+    {
+      "damage": 4300.0,
+      "dps": 71.67,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "line",
+      "weapon": "turret"
+    },
+    {
+      "damage": 1925.0,
+      "dps": 32.08,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "kite400",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3800.0,
+      "dps": 63.33,
+      "level": 6,
+      "part": "P07",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3800.0,
+      "dps": 63.33,
+      "level": 6,
+      "part": "P07",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3800.0,
+      "dps": 63.33,
+      "level": 6,
+      "part": "P07",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3800.0,
+      "dps": 63.33,
+      "level": 6,
+      "part": "P07",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3800.0,
+      "dps": 63.33,
+      "level": 6,
+      "part": "P07",
+      "role": "",
+      "scenario": "line",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3500.0,
+      "dps": 58.33,
+      "level": 6,
+      "part": "P08",
+      "role": "",
+      "scenario": "single100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3500.0,
+      "dps": 58.33,
+      "level": 6,
+      "part": "P08",
+      "role": "",
+      "scenario": "boss120",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3525.0,
+      "dps": 58.75,
+      "level": 6,
+      "part": "P08",
+      "role": "",
+      "scenario": "crowd100",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3525.0,
+      "dps": 58.75,
+      "level": 6,
+      "part": "P08",
+      "role": "",
+      "scenario": "crowd200",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3500.0,
+      "dps": 58.33,
+      "level": 6,
+      "part": "P08",
+      "role": "",
+      "scenario": "line",
+      "weapon": "turret"
+    },
+    {
+      "damage": 8052.0,
+      "dps": 134.2,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 6844.2,
+      "dps": 114.07,
+      "level": 6,
+      "part": "P01",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 6039.0,
+      "dps": 100.65,
+      "level": 6,
+      "part": "P02",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P03",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P04",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "orbit"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P05",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P06",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "nova"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "turret"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 6,
+      "part": "P07",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3450.0,
+      "dps": 57.5,
+      "level": 6,
+      "part": "P08",
+      "role": "",
+      "scenario": "single600",
+      "weapon": "turret"
+    },
+    {
+      "damage": 3019.5,
+      "dps": 50.33,
+      "level": 2,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 0.0,
+      "dps": 0.0,
+      "level": 4,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "pulse"
+    },
+    {
+      "damage": 6453.0,
+      "dps": 107.55,
+      "level": 5,
+      "part": "",
+      "role": "",
+      "scenario": "single400",
+      "weapon": "pulse"
+    }
+  ],
+  "dt": 0.0166666666666667,
+  "duration": 60.0,
+  "seed": 4242,
+  "survival": [
+    {
+      "kills": 177,
+      "level": 5,
+      "modules": {
+        "axle": 2,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 158.6,
+      "seed": 1,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 3,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 166,
+      "level": 4,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 153.1,
+      "seed": 2,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 3,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 216,
+      "level": 7,
+      "modules": {
+        "axle": 0,
+        "battery": 2,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 181.5,
+      "seed": 3,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 195,
+      "level": 6,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 2,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 168.7,
+      "seed": 4,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 196,
+      "level": 5,
+      "modules": {
+        "axle": 0,
+        "battery": 1,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 165.6,
+      "seed": 5,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 197,
+      "level": 5,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 1
+      },
+      "outcome": "lost",
+      "seconds": 164.7,
+      "seed": 6,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 191,
+      "level": 6,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 169.9,
+      "seed": 7,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 183,
+      "level": 5,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 161.9,
+      "seed": 8,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 224,
+      "level": 6,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 177.6,
+      "seed": 9,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 6,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 170,
+      "level": 5,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 155.5,
+      "seed": 10,
+      "weapon": "pulse",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 4,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 165,
+      "level": 9,
+      "modules": {
+        "axle": 0,
+        "battery": 1,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 3,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 152.1,
+      "seed": 1,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 5,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 156,
+      "level": 7,
+      "modules": {
+        "axle": 0,
+        "battery": 1,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 1,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 152.0,
+      "seed": 2,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 5,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 248,
+      "level": 11,
+      "modules": {
+        "axle": 2,
+        "battery": 0,
+        "fiber": 2,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 1
+      },
+      "outcome": "lost",
+      "seconds": 195.8,
+      "seed": 3,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 6,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 281,
+      "level": 13,
+      "modules": {
+        "axle": 2,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 2,
+        "lightfoot": 2
+      },
+      "outcome": "lost",
+      "seconds": 207.6,
+      "seed": 4,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 6,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 148,
+      "level": 8,
+      "modules": {
+        "axle": 2,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 1,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 147.9,
+      "seed": 5,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 4,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 219,
+      "level": 10,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 3,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 1
+      },
+      "outcome": "lost",
+      "seconds": 181.9,
+      "seed": 6,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 6,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 198,
+      "level": 10,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 2,
+        "lightfoot": 1
+      },
+      "outcome": "lost",
+      "seconds": 173.0,
+      "seed": 7,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 6,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 193,
+      "level": 10,
+      "modules": {
+        "axle": 1,
+        "battery": 1,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 3,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 167.8,
+      "seed": 8,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 5,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 213,
+      "level": 11,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 2,
+        "gravity": 0,
+        "lens": 2,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 176.3,
+      "seed": 9,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 6,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 364,
+      "level": 15,
+      "modules": {
+        "axle": 0,
+        "battery": 2,
+        "fiber": 3,
+        "gravity": 1,
+        "lens": 3,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 235.1,
+      "seed": 10,
+      "weapon": "orbit",
+      "weapons": {
+        "nova": 0,
+        "orbit": 6,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 190,
+      "level": 7,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 166.4,
+      "seed": 1,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 6,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 177,
+      "level": 7,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 159.7,
+      "seed": 2,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 6,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 176,
+      "level": 7,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 158.2,
+      "seed": 3,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 6,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 177,
+      "level": 7,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 155.6,
+      "seed": 4,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 5,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 160,
+      "level": 8,
+      "modules": {
+        "axle": 0,
+        "battery": 1,
+        "fiber": 3,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 153.7,
+      "seed": 5,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 4,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 188,
+      "level": 8,
+      "modules": {
+        "axle": 0,
+        "battery": 1,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 2,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 165.7,
+      "seed": 6,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 5,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 193,
+      "level": 8,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 2,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 166.1,
+      "seed": 7,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 5,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 167,
+      "level": 7,
+      "modules": {
+        "axle": 2,
+        "battery": 2,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 155.6,
+      "seed": 8,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 3,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 203,
+      "level": 7,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 170.3,
+      "seed": 9,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 6,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 189,
+      "level": 7,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 1,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 168.1,
+      "seed": 10,
+      "weapon": "nova",
+      "weapons": {
+        "nova": 5,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 0
+      }
+    },
+    {
+      "kills": 123,
+      "level": 6,
+      "modules": {
+        "axle": 0,
+        "battery": 1,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 1
+      },
+      "outcome": "lost",
+      "seconds": 155.4,
+      "seed": 1,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 4
+      }
+    },
+    {
+      "kills": 89,
+      "level": 5,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 135.6,
+      "seed": 2,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 5
+      }
+    },
+    {
+      "kills": 153,
+      "level": 7,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 3,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 190.4,
+      "seed": 3,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 4
+      }
+    },
+    {
+      "kills": 79,
+      "level": 4,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 1,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 99.7,
+      "seed": 4,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 3
+      }
+    },
+    {
+      "kills": 108,
+      "level": 6,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 142.9,
+      "seed": 5,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 6
+      }
+    },
+    {
+      "kills": 79,
+      "level": 5,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 115.1,
+      "seed": 6,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 4
+      }
+    },
+    {
+      "kills": 76,
+      "level": 4,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 106.4,
+      "seed": 7,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 4
+      }
+    },
+    {
+      "kills": 168,
+      "level": 10,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 1,
+        "lens": 3,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 158.2,
+      "seed": 8,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 1,
+        "pulse": 0,
+        "turret": 5
+      }
+    },
+    {
+      "kills": 157,
+      "level": 7,
+      "modules": {
+        "axle": 0,
+        "battery": 0,
+        "fiber": 1,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 0
+      },
+      "outcome": "lost",
+      "seconds": 184.8,
+      "seed": 9,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 6
+      }
+    },
+    {
+      "kills": 122,
+      "level": 6,
+      "modules": {
+        "axle": 1,
+        "battery": 0,
+        "fiber": 0,
+        "gravity": 0,
+        "lens": 0,
+        "lightfoot": 1
+      },
+      "outcome": "lost",
+      "seconds": 144.9,
+      "seed": 10,
+      "weapon": "turret",
+      "weapons": {
+        "nova": 0,
+        "orbit": 0,
+        "pulse": 0,
+        "turret": 4
+      }
+    }
+  ],
+  "source_sha256": {
+    "scripts/run.gd": "3030914f576ffa4e7d57a9ce9a0dd45a4aa77625a68d72fe575d3db5eca133eb",
+    "scripts/parts.gd": "d68e7bc6fa1648ab7250897d75b1ee4903b7689fe93fe0070e4fd58f13bd2acb",
+    "scripts/facilities.gd": "c78a268586305b4a42456e30a6a5a5181251428841ba70dedc822f3e89ec51e7",
+    "scripts/balance_audit.gd": "922bac5a2ef5f9fc0ace7e886d19a4046885eadc08537e77f709b193c99a9f61"
+  },
+  "captured_utc": "2026-11-05T15:58:06.038344+00:00"
+}

@@ -1,0 +1,141 @@
+{
+  "version": "v002",
+  "stage": "first_four_combat_concepts",
+  "created_at": "2026-11-04T07:37:16.012866+00:00",
+  "requested_model": "gpt-image-2",
+  "mode": "bundled_cli_edit_two_style_references",
+  "quality": "high",
+  "requested_size": "1024x1024",
+  "status": "all_four_generated_and_inspected",
+  "items": [
+    {
+      "asset_id": "W01",
+      "name": "星辉弹",
+      "prompt_file": "art/prompts/combat/v002/weapon-pulse.prompt.txt",
+      "prompt_sha256": "90b1d91a379be3d4a07de8131b613193f3b2fb25e961ac403b6c346e728e72c6",
+      "reference_files": [
+        "output/imagegen/characters-v001/jiyue-v001.png",
+        "output/imagegen/characters-v001/luodeng-v001.png"
+      ],
+      "reference_sha256": [
+        "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0",
+        "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+      ],
+      "output_file": "output/imagegen/combat-v002/weapon-pulse-concept.png",
+      "status": "generated_and_inspected_concept_only",
+      "actual_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "file_bytes": 2258332,
+      "output_sha256": "579aac5e15bbe119d898c4a9e76fc3324c77cf430a538de1ee692586e78d258f",
+      "size_matches_request": false,
+      "production_sprite_ready": false,
+      "review_notes": [
+        "Painting, bronze/ceramic material and directional muzzle match the intended world.",
+        "Small decorations need simplification for a readable 64px icon; conceptual scale is not a final equipment size."
+      ],
+      "derived_preview": "output/imagegen/combat-v002/weapon-pulse-concept.png"
+    },
+    {
+      "asset_id": "W02",
+      "name": "环刃",
+      "prompt_file": "art/prompts/combat/v002/weapon-orbit.prompt.txt",
+      "prompt_sha256": "5f7fe23e2e8fc212d5088a8a6c7e755b81d8e3bf8570d4b10a380d594ff42311",
+      "reference_files": [
+        "output/imagegen/characters-v001/jiyue-v001.png",
+        "output/imagegen/characters-v001/luodeng-v001.png"
+      ],
+      "reference_sha256": [
+        "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0",
+        "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+      ],
+      "output_file": "output/imagegen/combat-v002/weapon-orbit-concept.png",
+      "status": "generated_and_inspected_concept_only",
+      "actual_size": [
+        1312,
+        1199
+      ],
+      "mode": "RGBA",
+      "file_bytes": 1397505,
+      "output_sha256": "9a689e1f754a940218a70496d378c1b7ee8ef1c3dd44864285646297523c5a18",
+      "size_matches_request": false,
+      "production_sprite_ready": false,
+      "review_notes": [
+        "Paired crescents and negative space are legible.",
+        "Service returned RGBA with low-alpha colored noise; a separate cleaned preview is saved, original unchanged.",
+        "This assembled concept must be separated into actual orbiting blade textures before gameplay use."
+      ],
+      "derived_preview": "output/imagegen/combat-v002/weapon-orbit-concept-preview.png",
+      "preview_processing": "low-alpha cleanup and one source-pixel matte contraction; no repainting"
+    },
+    {
+      "asset_id": "E01",
+      "name": "苔影追击者",
+      "prompt_file": "art/prompts/combat/v002/enemy-chaser.prompt.txt",
+      "prompt_sha256": "8c5fcef03b976e354dd8dd054d1c495577b33fffb09f4c3e7099cd71e91d60b2",
+      "reference_files": [
+        "output/imagegen/characters-v001/jiyue-v001.png",
+        "output/imagegen/characters-v001/luodeng-v001.png"
+      ],
+      "reference_sha256": [
+        "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0",
+        "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+      ],
+      "output_file": "output/imagegen/combat-v002/enemy-chaser-concept.png",
+      "status": "generated_and_inspected_concept_only",
+      "actual_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "file_bytes": 2341750,
+      "output_sha256": "a2c3b84e4a524a502f99266195c85a417651f939c798c610774eafdabfaace28",
+      "size_matches_request": false,
+      "production_sprite_ready": false,
+      "review_notes": [
+        "Round low silhouette, moss and spore details fit a corrupted observatory pursuer.",
+        "Back ornament and armor are too elaborate for a low-HP common enemy; simplify the gameplay variant to avoid reading as an elite."
+      ],
+      "derived_preview": "output/imagegen/combat-v002/enemy-chaser-concept.png"
+    },
+    {
+      "asset_id": "E02",
+      "name": "裂隙疾行者",
+      "prompt_file": "art/prompts/combat/v002/enemy-runner.prompt.txt",
+      "prompt_sha256": "59651d96cf759a120647de6dac84c848cfe0575c8ad7610837a16b8e82a9daa0",
+      "reference_files": [
+        "output/imagegen/characters-v001/jiyue-v001.png",
+        "output/imagegen/characters-v001/luodeng-v001.png"
+      ],
+      "reference_sha256": [
+        "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0",
+        "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+      ],
+      "output_file": "output/imagegen/combat-v002/enemy-runner-concept.png",
+      "status": "generated_and_inspected_concept_only",
+      "actual_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "file_bytes": 2352861,
+      "output_sha256": "f82783360106c7a14b517ea7aed4145d9ab187b51eafc9685565194ebadb5b2a",
+      "size_matches_request": false,
+      "production_sprite_ready": false,
+      "review_notes": [
+        "Lean body, swept crystal fins and visible tail clearly differ from the pursuer.",
+        "This is an elevated concept pose, not a timed charge animation or verified collision asset."
+      ],
+      "derived_preview": "output/imagegen/combat-v002/enemy-runner-concept.png"
+    }
+  ],
+  "api_secrets_saved": false,
+  "completed_at": "2026-11-04T12:21:59.798765+00:00",
+  "live_api_called": true,
+  "generation_count": 4,
+  "gameplay_implementation_changed": false,
+  "production_approval": "pending_concept_direction_review",
+  "contact_sheet": "output/imagegen/combat-v002/combat-concept-board.png"
+}

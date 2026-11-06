@@ -1,0 +1,304 @@
+{
+  "version": "v004",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "status": "generated_processed_checked",
+  "items": [
+    {
+      "id": "guard",
+      "kind": "sprite",
+      "prompt": "art/prompts/characters/v004/guard-sprite.prompt.txt",
+      "prompt_sha256": "cb925293678ee7f72ed303da93a436babe6c190f1d26eea03521446b156aa6d0",
+      "reference": "output/imagegen/characters-v003/guard-concept.png",
+      "reference_sha256": "b7aa239e46b0361830d625af99a0ca378474d6d0665916aa295d3a46d4190286",
+      "output": "output/imagegen/characters-v004/guard-sprite-raw.png",
+      "status": "generated_processed_checked",
+      "actual_raw_size": [
+        1199,
+        1312
+      ],
+      "actual_raw_mode": "RGBA",
+      "raw_sha256": "6150c7475ef8b18495fc5fefb11c2aad2b996e6f77a109d971f00306b05601d9",
+      "variants": [
+        {
+          "file": "output/imagegen/characters-v004/guard-sprite-512.png",
+          "sha256": "8f9d4691f9d22438c322c8e79dddb3427daac446ea5c08ea76b08e087cc45ec9",
+          "alpha_bbox": [
+            43,
+            28,
+            469,
+            484
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/guard-sprite-256.png",
+          "sha256": "7a800c5d53f710098734c0eaf8ba7fd717f65accc3b0e45cd680c8988bac9134",
+          "alpha_bbox": [
+            21,
+            14,
+            234,
+            242
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/guard-sprite-128.png",
+          "sha256": "2f650c06c4be16cc086e61ac95b2e74b5cedccfe47c739226fd8071675f41e81",
+          "alpha_bbox": [
+            10,
+            7,
+            117,
+            121
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/guard-sprite-96.png",
+          "sha256": "b78b1723cf968e4c378c7c2a4103c0b49a11c545469a14fd91a82b2b1b741b68",
+          "alpha_bbox": [
+            8,
+            5,
+            88,
+            91
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/guard-sprite-64.png",
+          "sha256": "fa4717df6e153c3b1646a3cdc83ce392bc1cf8b7af71f312e3847c9931703e1f",
+          "alpha_bbox": [
+            6,
+            4,
+            58,
+            60
+          ]
+        }
+      ],
+      "processing": "alpha<=8 removed, >=240 normalized; one-source-pixel contraction; aspect-preserving fit, 5.5% padding, foot baseline"
+    },
+    {
+      "id": "ranger",
+      "kind": "sprite",
+      "prompt": "art/prompts/characters/v004/ranger-sprite.prompt.txt",
+      "prompt_sha256": "e3cbfe8c629572fcafc6d4930bebf42ce16da8b524680e1172ee03e07fd0dd19",
+      "reference": "output/imagegen/characters-v003/ranger-concept.png",
+      "reference_sha256": "c38fb1980109350a88c72f4fcbf7745e1337d739988d533f7839dcec2490f1a7",
+      "output": "output/imagegen/characters-v004/ranger-sprite-raw.png",
+      "status": "generated_processed_checked",
+      "actual_raw_size": [
+        1024,
+        1536
+      ],
+      "actual_raw_mode": "RGBA",
+      "raw_sha256": "9e52799f497130381d9ed8600ecb92a71c68b37185118dc5625d835d10f5cb9f",
+      "variants": [
+        {
+          "file": "output/imagegen/characters-v004/ranger-sprite-512.png",
+          "sha256": "03c0843099e64bb3717d8185be34f1acdea862de2b82f4f002de8f39f96aad07",
+          "alpha_bbox": [
+            138,
+            28,
+            374,
+            484
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/ranger-sprite-256.png",
+          "sha256": "f0385f0d1a7177150b496f38d73e151d1f59498e150812732d1cb10e935c4e0c",
+          "alpha_bbox": [
+            69,
+            14,
+            187,
+            242
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/ranger-sprite-128.png",
+          "sha256": "cf7761df227a2e080669959e258b7d5a10da430d39eec21ef22e709b7afc041a",
+          "alpha_bbox": [
+            34,
+            7,
+            93,
+            121
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/ranger-sprite-96.png",
+          "sha256": "f64be05660c3ccb697aa391fa26417f065aff4ffee1f6c394498fb76ea552355",
+          "alpha_bbox": [
+            26,
+            5,
+            70,
+            91
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/ranger-sprite-64.png",
+          "sha256": "59bc12d060675d2bce2e632f35356e34c3c445c7d1610df509c79bb09b9ea639",
+          "alpha_bbox": [
+            17,
+            4,
+            46,
+            60
+          ]
+        }
+      ],
+      "processing": "alpha<=8 removed, >=240 normalized; one-source-pixel contraction; aspect-preserving fit, 5.5% padding, foot baseline"
+    },
+    {
+      "id": "engineer",
+      "kind": "sprite",
+      "prompt": "art/prompts/characters/v004/engineer-sprite.prompt.txt",
+      "prompt_sha256": "44d8286b03f1c6e673991d4602c10ecc9466e048fbcd232aa34b4888572795f3",
+      "reference": "output/imagegen/characters-v003/engineer-concept.png",
+      "reference_sha256": "02e4fc0ce25e9daac6ba6315f5b72f57828e3a97425ed657a4dcae01ecd5351f",
+      "output": "output/imagegen/characters-v004/engineer-sprite-raw.png",
+      "status": "generated_processed_checked",
+      "actual_raw_size": [
+        1199,
+        1312
+      ],
+      "actual_raw_mode": "RGBA",
+      "raw_sha256": "46060af0e69f14bfcf6c6eec9cb38fe72526001ec9bcd286a3477ef7dbc9df58",
+      "variants": [
+        {
+          "file": "output/imagegen/characters-v004/engineer-sprite-512.png",
+          "sha256": "159c0e935129a457f45ab981a61fe156f0b3cd882262b889a2bf18d324c66a16",
+          "alpha_bbox": [
+            115,
+            28,
+            396,
+            484
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/engineer-sprite-256.png",
+          "sha256": "b1e0a899f6e0a14f96851c98e220545d403e5e2186507c22adf7a313b49ead69",
+          "alpha_bbox": [
+            57,
+            14,
+            198,
+            242
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/engineer-sprite-128.png",
+          "sha256": "5476d778b7f0f8cff690d0bb3cf273ba8dcff0eb4f883d6ec3acb73c9cbf024d",
+          "alpha_bbox": [
+            29,
+            7,
+            99,
+            121
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/engineer-sprite-96.png",
+          "sha256": "ce390c681989076d0b31a62fb92077d8fb09933af982bdc1c8a1d1d2aa1976fa",
+          "alpha_bbox": [
+            21,
+            5,
+            74,
+            91
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/engineer-sprite-64.png",
+          "sha256": "3a869b8c01daa7d25c5a52d3c948a8c232ded341f3c27fe822286ea591d22ac4",
+          "alpha_bbox": [
+            14,
+            4,
+            49,
+            60
+          ]
+        }
+      ],
+      "processing": "alpha<=8 removed, >=240 normalized; one-source-pixel contraction; aspect-preserving fit, 5.5% padding, foot baseline"
+    },
+    {
+      "id": "assassin",
+      "kind": "concept",
+      "prompt": "art/prompts/characters/v004/assassin-concept.prompt.txt",
+      "prompt_sha256": "a88e4adf84df95a76c023c96f88816e9f777a0a847e200668fddb62734b35746",
+      "references": [
+        "output/imagegen/characters-v001/jiyue-v001.png",
+        "output/imagegen/characters-v001/luodeng-v001.png"
+      ],
+      "output": "output/imagegen/characters-v004/assassin-concept.png",
+      "status": "generated_checked",
+      "actual_size": [
+        1024,
+        1536
+      ],
+      "sha256": "21324d5bfce5179fa7823562bc90542047d604443436b3a0b944aec04e3f4437"
+    },
+    {
+      "id": "assassin",
+      "kind": "sprite",
+      "prompt": "art/prompts/characters/v004/assassin-sprite.prompt.txt",
+      "reference": "output/imagegen/characters-v004/assassin-concept.png",
+      "output": "output/imagegen/characters-v004/assassin-sprite-raw.png",
+      "prompt_sha256": "be9badb9ec6d9a27aff55aad98df51003b29efbc6781d4b16148aaaade5e61a1",
+      "reference_sha256": "21324d5bfce5179fa7823562bc90542047d604443436b3a0b944aec04e3f4437",
+      "status": "generated_processed_checked",
+      "actual_raw_size": [
+        1199,
+        1312
+      ],
+      "actual_raw_mode": "RGBA",
+      "raw_sha256": "d72ebc6b4d15df2e2d1013ae49e6a2321fe9c94ad05c0eb7f2d6710719fddfd5",
+      "variants": [
+        {
+          "file": "output/imagegen/characters-v004/assassin-sprite-512.png",
+          "sha256": "0a7c448002f90a413383a6589a8ed6cfcb9a534ccaa15be409017ded649def23",
+          "alpha_bbox": [
+            88,
+            28,
+            424,
+            484
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/assassin-sprite-256.png",
+          "sha256": "04d182513672aad2b3e933db13e10c6445c2de08e373ad8aeb8dc042ff93f6d4",
+          "alpha_bbox": [
+            44,
+            14,
+            212,
+            242
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/assassin-sprite-128.png",
+          "sha256": "207dea7a32144c1061a4a4c7a5287ba512472f95bc8c08d3c47456349844f331",
+          "alpha_bbox": [
+            22,
+            7,
+            106,
+            121
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/assassin-sprite-96.png",
+          "sha256": "a9619bfc4551f44234441720e1ee21493d1c2fb9ad457858e976426fe3a89d6d",
+          "alpha_bbox": [
+            16,
+            5,
+            79,
+            91
+          ]
+        },
+        {
+          "file": "output/imagegen/characters-v004/assassin-sprite-64.png",
+          "sha256": "1a13ec37253339c38452c76cf3cfc0e15f54e444d28ccf9c2cb8d24b66aff7ae",
+          "alpha_bbox": [
+            11,
+            4,
+            52,
+            60
+          ]
+        }
+      ],
+      "processing": "alpha<=8 removed, >=240 normalized; one-source-pixel contraction; aspect-preserving fit, 5.5% padding, foot baseline"
+    }
+  ],
+  "approval": "pending_user_review",
+  "static_single_direction_only": true,
+  "godot_gameplay_unchanged": true
+}

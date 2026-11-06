@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500" fill="none">
+<defs><linearGradient id="shell" x1="110" y1="130" x2="255" y2="375" gradientUnits="userSpaceOnUse"><stop stop-color="#f0e8d2"/><stop offset=".6" stop-color="#d0c9af"/><stop offset="1" stop-color="#a6a68d"/></linearGradient><linearGradient id="bronze" x2="1" y2="1"><stop stop-color="#b0956a"/><stop offset="1" stop-color="#6d5d45"/></linearGradient><radialGradient id="lamp"><stop stop-color="#fff5c7"/><stop offset=".5" stop-color="#eed18b"/><stop offset="1" stop-color="#bd9460"/></radialGradient></defs>
+<ellipse cx="184" cy="466" rx="115" ry="17" fill="#041213" opacity=".3"/>
+<!-- Short mechanical feet and heavy articulated legs, not human armor. -->
+<path d="M125 344L118 406L142 418L165 404L158 346M204 347L201 410L225 421L247 407L240 344" fill="#405452" stroke="#283b3d" stroke-width="4"/>
+<circle cx="141" cy="396" r="20" fill="#526261" stroke="#9c895f" stroke-width="4"/>
+<circle cx="222" cy="399" r="20" fill="#526261" stroke="#9c895f" stroke-width="4"/>
+<path d="M117 412C109 416 98 424 93 438L94 454C119 465 152 459 168 449L161 421L143 412Z" fill="#a29778" stroke="#47544b" stroke-width="4"/>
+<path d="M200 417L186 443L191 458C218 465 253 463 270 452L267 435L243 418Z" fill="#a29778" stroke="#47544b" stroke-width="4"/>
+<path d="M100 447L154 445M198 451L258 448" stroke="#dfd2af" stroke-width="5" stroke-linecap="round"/>
+<!-- Antenna, a single horizontal expression window, and an oval shell. -->
+<path d="M221 117L227 80Q229 64 246 66" stroke="#695e48" stroke-width="8" stroke-linecap="round"/>
+<path d="M222 115L228 81Q231 68 246 68" stroke="#c4ac7b" stroke-width="3" stroke-linecap="round"/>
+<circle cx="250" cy="67" r="9" fill="#78b9bb" stroke="#385957" stroke-width="3"/>
+<path d="M119 130C134 104 173 99 210 108C248 115 265 138 264 178L269 250C271 312 248 354 190 366C129 373 92 337 89 281L90 203C86 167 99 143 119 130Z" fill="url(#shell)" stroke="#4c5b52" stroke-width="4"/>
+<path d="M111 178C111 149 125 130 147 124" stroke="#fff5df" stroke-width="7" stroke-linecap="round"/>
+<path d="M105 272C110 315 134 343 170 350" stroke="#a3a58d" stroke-width="6" stroke-linecap="round"/>
+<path d="M123 156C144 146 220 145 241 163L240 192C220 207 143 206 121 191Z" fill="#294b4e" stroke="#8c8769" stroke-width="4"/>
+<path d="M137 172L160 172M198 170L222 170" stroke="#96d9dc" stroke-width="6" stroke-linecap="round"/>
+<path d="M172 184Q180 191 189 183" stroke="#77bfc1" stroke-width="3" stroke-linecap="round"/>
+<path d="M126 214L243 216" stroke="#a0a28a" stroke-width="2"/>
+<!-- One brass repair patch, one warm chest lamp. -->
+<path d="M207 231L249 227L253 301L211 308Z" fill="url(#bronze)" stroke="#756647" stroke-width="3"/>
+<g fill="#d6c397"><circle cx="215" cy="239" r="3"/><circle cx="241" cy="236" r="3"/><circle cx="218" cy="298" r="3"/><circle cx="245" cy="294" r="3"/></g>
+<path d="M219 257L240 254M219 266L240 263M220 275L241 272" stroke="#675e47" stroke-width="3" stroke-linecap="round"/>
+<circle cx="150" cy="263" r="39" fill="#b39a6e" stroke="#6d6650" stroke-width="4"/>
+<circle cx="150" cy="263" r="29" fill="url(#lamp)" stroke="#e1cc99" stroke-width="3"/>
+<path d="M129 259Q149 248 171 259M128 269Q149 258 171 269" stroke="#b89759" stroke-width="2" opacity=".55"/>
+<circle cx="143" cy="254" r="8" fill="#fff5d6" opacity=".7"/>
+<path d="M129 321L179 324" stroke="#7c8774" stroke-width="3"/>
+<path d="M135 331L157 332M166 332L180 333" stroke="#9a8d69" stroke-width="4"/>
+<!-- Small holding hand and a clearly larger repair claw. -->
+<circle cx="91" cy="226" r="21" fill="#716c55" stroke="#394c48" stroke-width="4"/>
+<path d="M82 235L64 281L75 297L95 278L106 241" fill="#9a8963" stroke="#4f5747" stroke-width="4"/>
+<circle cx="71" cy="294" r="17" fill="#435b55" stroke="#b69d70" stroke-width="4"/>
+<path d="M60 299L48 319Q43 329 53 332L73 327L84 312L79 301" fill="#d2c9ad" stroke="#526056" stroke-width="3"/>
+<path d="M53 322L67 316" stroke="#8b8060" stroke-width="3" stroke-linecap="round"/>
+<circle cx="270" cy="218" r="24" fill="#716c55" stroke="#394c48" stroke-width="4"/>
+<path d="M281 205L304 176L323 188L298 229" fill="#9a8963" stroke="#4f5747" stroke-width="4"/>
+<circle cx="315" cy="181" r="17" fill="#435b55" stroke="#b69d70" stroke-width="4"/>
+<path d="M310 165L293 147Q285 136 298 131L319 149L325 135L321 117Q323 109 332 113L342 142L332 167Z" fill="#d2c9ad" stroke="#526056" stroke-width="4" stroke-linejoin="round"/>
+<path d="M296 140L309 153M330 122L333 140" stroke="#f0e2bc" stroke-width="3" stroke-linecap="round"/>
+<!-- A few broad wear marks remain legible when downscaled. -->
+<path d="M117 225L125 229M235 137L245 142M106 302L114 310M185 342L195 340" stroke="#9e9879" stroke-width="2" stroke-linecap="round"/>
+<circle cx="120" cy="146" r="4" fill="#9b8c68"/><circle cx="251" cy="207" r="4" fill="#9b8c68"/>
+</svg>

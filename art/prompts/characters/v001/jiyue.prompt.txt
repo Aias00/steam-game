@@ -1,0 +1,23 @@
+Use case: stylized-concept
+Asset type: original game character concept art for Orbit Survivor; one full-body character illustration, not a UI mockup and not a sprite sheet.
+
+Primary request:
+Create a polished, appealing, genuinely hand-painted 2D concept illustration of Jiyue, an adult female star cartographer exploring an abandoned astronomical observatory. The artwork should feel art-directed and suitable as the foundation for a commercial indie game's character selection art. Prioritize an expressive face, elegant gesture, convincing anatomy, fabric volume, nuanced lighting and a memorable silhouette. Do not imitate a named artist or reproduce a character from an existing franchise.
+
+Subject and identity:
+One adult woman, approximately late twenties. Stylized adult proportions, about six to six-and-a-half heads tall; graceful and capable, not a child or an oversized-head chibi. Warm light-to-medium skin, dark chestnut hair in a short side-tied ponytail, a few natural loose strands, a small aged-brass star hairpin. Her face is fully visible: thoughtful amber-brown eyes, well-designed facial features, a subtle confident smile. She is observant, calm and adventurous, with personality rather than a blank mannequin expression.
+
+Costume and signature object:
+A tailored ivory expedition jacket with readable folds and a slightly asymmetric hem, a short muted-lavender shoulder cape, a dark slate-blue inner layer and practical trousers, soft worn ankle boots, and one restrained leather belt with a rolled star-map case. Keep the outfit simple enough to read at game scale; avoid excessive straps and tiny decorations. She holds one elegant brass astrolabe in her left hand, offset from her body so its circular outline remains identifiable. The astrolabe has a few luminous pale-blue constellation lines and a restrained star-shaped center. It is an astronomical instrument, not a huge magical shield. Her other hand is relaxed and naturally posed.
+
+Pose and framing:
+Single character, head-to-toe, three-quarter view, dynamic but relaxed contrapposto. Her torso turns slightly toward the viewer while she lifts the astrolabe to inspect it; one foot is forward and the cape has a gentle directional sweep. Show both hands and both boots. Keep the whole hair silhouette, instrument and feet inside the frame, with comfortable breathing room. The character occupies roughly 80 percent of the image height. Do not add inset portraits, multiple views, extra characters or text labels.
+
+Style and materials:
+Refined Japanese-inspired fantasy adventure illustration with painterly brushwork, confident selective linework and soft-to-crisp edge control. Attractive, intentionally designed features and readable shape hierarchy. Painted fabric, brushed brass, soft leather and hair have different visual textures. Build the form with rich midtones, soft reflected light, subtle contact shadows and a few sharp focal highlights. The finish must read as an illustration painted by a character artist, not an SVG traced from primitive shapes, a flat vector icon, a CAD rendering or a plastic toy.
+
+Lighting, palette and background:
+Soft warm key light from the upper left and a restrained cool reflected rim light. Keep the face clearly illuminated and the ivory jacket distinct from the background. Main colors: warm ivory, dusty lavender, slate blue, chestnut and aged brass; low-to-moderate saturation with a few small luminous accents. Use a simple warm-gray to pale-sage painterly studio backdrop with a subtle ground shadow; no elaborate environment. Keep the presentation brighter and more readable than a dark green game screenshot. The backdrop is opaque, not transparent.
+
+Constraints and avoid:
+Original character only. No text, lettering, logos, watermarks, UI frames, stat panels or color swatch labels. No cropped limbs, duplicate hands, extra fingers, malformed anatomy, stiff symmetrical standing pose, hidden face, full helmet, high heels, sexualized armor, photorealistic photography, 3D render, low-poly geometry, thick uniform cartoon outlines, flat geometric face, vector gradients, muddy dark-green cast, giant glowing effects or excessive jewelry. Do not use the project's rejected SVG characters as image references.

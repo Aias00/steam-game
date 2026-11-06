@@ -1,0 +1,10 @@
+{
+  "provider": "cloudbase",
+  "base_url": "http://100.115.150.8:3425/v1",
+  "time": "2026-11-03T09:25:46.707397+00:00",
+  "model": "gpt-image-2",
+  "prompt_file": "art/prompts/characters/v001/jiyue.prompt.txt",
+  "status": "generated",
+  "exit_code": 0,
+  "output_exists": true
+}

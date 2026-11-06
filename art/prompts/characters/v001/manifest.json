@@ -1,0 +1,79 @@
+{
+  "version": "v001",
+  "created_at": "2026-11-03T08:43:47.704691+00:00",
+  "status": "generated_and_reviewed",
+  "blockers": [],
+  "planned_model": "gpt-image-2",
+  "planned_quality": "high",
+  "planned_size": "1024x1536",
+  "format": "png",
+  "reference_images": [],
+  "prompt_augmentation": false,
+  "dry_run_completed": true,
+  "live_api_called": true,
+  "images": [
+    {
+      "character": "jiyue",
+      "prompt_file": "art/prompts/characters/v001/jiyue.prompt.txt",
+      "prompt_sha256": "6f512b03ef6889fa5770a9913cc7f832865a8a78fa568513c0ee52effebcdfbd",
+      "dry_run_file": "art/prompts/characters/v001/jiyue.request.dry-run.json",
+      "planned_output": "output/imagegen/characters-v001/jiyue-v001.png",
+      "generated": true,
+      "status": "generated_and_reviewed",
+      "output_file": "output/imagegen/characters-v001/jiyue-v001.png",
+      "output_sha256": "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0",
+      "actual_width": 1024,
+      "actual_height": 1536,
+      "actual_format": "PNG",
+      "actual_mode": "RGB",
+      "size_matches_request": true,
+      "file_bytes": 2295493,
+      "execution_log": "gateway-attempt.log"
+    },
+    {
+      "character": "luodeng",
+      "prompt_file": "art/prompts/characters/v001/luodeng.prompt.txt",
+      "prompt_sha256": "a8d96bf12911a288f1df5d19084a43f059e776ad6e66a0c27a13460cb008731a",
+      "dry_run_file": "art/prompts/characters/v001/luodeng.request.dry-run.json",
+      "planned_output": "output/imagegen/characters-v001/luodeng-v001.png",
+      "generated": true,
+      "status": "generated_and_reviewed",
+      "output_file": "output/imagegen/characters-v001/luodeng-v001.png",
+      "output_sha256": "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a",
+      "actual_width": 1230,
+      "actual_height": 1278,
+      "actual_format": "PNG",
+      "actual_mode": "RGB",
+      "size_matches_request": false,
+      "file_bytes": 2292780,
+      "execution_log": "luodeng-generation-attempt02.log"
+    }
+  ],
+  "provider_mode": "configured_openai_compatible_gateway_via_bundled_cli",
+  "model": "gpt-image-2",
+  "completed_at": "2026-11-04T01:21:52.916295+00:00",
+  "requested_model": "gpt-image-2",
+  "quality": "high",
+  "requested_size": "1024x1536",
+  "user_authorization": "User instructed direct generation and continuation; use existing configured image-capable service.",
+  "api_secrets_saved": false,
+  "pixel_reproducibility": "No seed exposed; prompts and request parameters are retained, not a guarantee of identical pixels.",
+  "review_notes": {
+    "jiyue": [
+      "Clear face and expressive pose; readable ivory/lavender/brass palette.",
+      "Cape is longer than the short-shoulder-cape target; preserve as v001 and make a targeted v002 if requested."
+    ],
+    "luodeng": [
+      "Oval ceramic shell, connected mechanical joints, warm chest lamp and asymmetric arms visible.",
+      "Provider returned 1230x1278 despite requested 1024x1536; original image preserved, not stretched or cropped."
+    ],
+    "pair": [
+      "Compatible painterly rendering and warm neutral presentation.",
+      "Concept illustrations only; no transparent cutouts, animation or independent gameplay sprites produced."
+    ]
+  },
+  "derived_preview": {
+    "file": "output/imagegen/characters-v001/character-pair-v001.png",
+    "method": "Pillow layout of original images at preserved aspect ratios; no repainting or character changes"
+  }
+}

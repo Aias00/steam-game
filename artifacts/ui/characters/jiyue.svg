@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500" fill="none">
+<defs><linearGradient id="ivory" x1="100" y1="170" x2="220" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#f5ead6"/><stop offset="1" stop-color="#c9c2af"/></linearGradient><linearGradient id="cloak" x1="195" y1="170" x2="290" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#b0a3d5"/><stop offset="1" stop-color="#615c89"/></linearGradient><linearGradient id="hair" x2="1" y2="1"><stop stop-color="#6c4144"/><stop offset="1" stop-color="#352d36"/></linearGradient></defs>
+<ellipse cx="177" cy="475" rx="100" ry="14" fill="#071313" opacity=".3"/>
+<!-- A side-tied ponytail makes an asymmetrical silhouette. -->
+<path d="M214 100C245 81 265 98 266 123C266 147 288 152 283 185C269 173 248 172 244 148C240 132 232 124 214 130Z" fill="url(#hair)" stroke="#302b37" stroke-width="3"/>
+<path d="M247 119C253 131 248 148 267 159" stroke="#8a5555" stroke-width="3" stroke-linecap="round"/>
+<!-- Legs and practical boots. -->
+<path d="M136 311C125 347 128 395 116 437L143 443C166 399 166 373 178 344L189 438L217 441C225 394 215 351 207 313Z" fill="#354158" stroke="#29323f" stroke-width="3"/>
+<path d="M150 336L140 401M194 340L204 404" stroke="#59627b" stroke-width="4" stroke-linecap="round"/>
+<path d="M115 421L145 425L145 454C145 465 137 473 119 473H96C90 471 92 461 102 454L113 445Z" fill="#4b3c43" stroke="#302c34" stroke-width="3"/>
+<path d="M189 424L218 425L220 450C228 457 243 460 245 468C244 475 222 477 204 474L187 468Z" fill="#4b3c43" stroke="#302c34" stroke-width="3"/>
+<path d="M116 432L141 435M192 434L216 435" stroke="#ba9363" stroke-width="4"/>
+<!-- A short ivory expedition coat, with a separate purple shoulder cape. -->
+<path d="M133 179C117 182 108 206 109 237L117 281L103 322C127 338 147 334 166 318L180 285L191 324C211 335 231 329 242 319L223 261L227 209C222 189 207 180 194 179Z" fill="url(#ivory)" stroke="#6a6b6b" stroke-width="3"/>
+<path d="M154 181L164 232L180 250L194 225L191 181" fill="#40495e"/>
+<path d="M147 178L135 203L164 232L157 195M198 181L210 203L185 235" stroke="#b8ae9e" stroke-width="3" stroke-linejoin="round"/>
+<path d="M189 176C220 174 241 195 246 219C249 242 248 275 273 292C244 304 219 281 214 258L194 219L179 203Z" fill="url(#cloak)" stroke="#565275" stroke-width="3"/>
+<path d="M211 197C224 216 223 242 244 266" stroke="#d2bfda" stroke-width="2"/>
+<path d="M118 266C144 270 177 271 218 259L221 274C180 286 148 286 118 281Z" fill="#805b48"/>
+<rect x="165" y="268" width="21" height="16" rx="3" fill="#c3a06a" stroke="#675448" stroke-width="2"/>
+<path d="M122 282L113 320M208 283L222 318" stroke="#a59a8c" stroke-width="2"/>
+<!-- Map case and a small number of useful details. -->
+<path d="M222 270L243 267L252 324L228 330Z" fill="#8a6750" stroke="#55443d" stroke-width="2"/><path d="M226 272L245 268" stroke="#ddc293" stroke-width="5"/>
+<path d="M111 203C96 214 88 241 78 254L53 250L48 267C72 279 92 279 106 259L125 228" fill="#e9deca" stroke="#6a6b6b" stroke-width="3"/>
+<path d="M57 250L43 242C36 239 31 246 36 251L43 259L31 258C23 258 24 267 30 270L51 276L61 267" fill="#e4ad94" stroke="#8f655e" stroke-width="2"/>
+<path d="M219 215C237 223 241 251 248 267L269 255L278 269C262 290 244 295 231 281L214 247" fill="#e9deca" stroke="#6a6b6b" stroke-width="3"/>
+<path d="M267 257C274 250 283 249 286 254L294 266C297 272 290 277 283 272L279 266L272 274" fill="#e4ad94" stroke="#8f655e" stroke-width="2"/>
+<!-- Neck, visible face, brows and a restrained expression. -->
+<path d="M160 151L157 181L175 195L194 178L188 151" fill="#daa28b" stroke="#875e59" stroke-width="2"/>
+<path d="M134 106C131 84 142 66 165 62C197 55 218 72 219 103L213 141C205 161 189 172 174 169C152 164 136 143 134 123Z" fill="#ecc1a7" stroke="#704f50" stroke-width="3"/>
+<path d="M136 126C122 117 125 107 133 109M215 124C229 115 225 105 218 109" fill="#e5b298" stroke="#704f50" stroke-width="2"/>
+<path d="M131 108C123 74 141 48 169 48C198 44 220 61 223 85L218 118L205 97L192 80C177 95 159 98 143 96L137 120Z" fill="url(#hair)" stroke="#352d36" stroke-width="3"/>
+<path d="M148 66C167 56 187 61 198 73M145 83C160 84 172 78 182 72" stroke="#895657" stroke-width="3" stroke-linecap="round"/>
+<path d="M147 112L160 110M188 109L201 111" stroke="#68444b" stroke-width="3" stroke-linecap="round"/>
+<path d="M147 120Q154 115 161 120M187 119Q194 114 200 119" stroke="#3d3c51" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="155" cy="121" rx="2.5" ry="4" fill="#4b555c"/><ellipse cx="193" cy="120" rx="2.5" ry="4" fill="#4b555c"/>
+<path d="M176 121L173 135L179 136M166 147Q175 151 184 146" stroke="#ab746b" stroke-width="2" stroke-linecap="round"/>
+<path d="M211 85L217 80L220 88L227 91L219 94L216 102L212 94L205 91Z" fill="#e2bb77"/>
+<circle cx="213" cy="139" r="3" fill="#d8b677"/>
+<!-- Offset brass astrolabe: the role-defining object. -->
+<g transform="translate(61 231) rotate(-17)"><circle r="51" fill="#213e3d" stroke="#bd965e" stroke-width="5"/><circle r="39" stroke="#d1b585" stroke-width="1.5"/><ellipse rx="18" ry="47" stroke="#cfaa70" stroke-width="2"/><path d="M-43 0H43M0-43V43M-29-29L29 29M-29 29L29-29" stroke="#8fa6a6" stroke-width="1"/><path d="M0-21L5-5L21 0L5 5L0 21L-5 5L-21 0L-5-5Z" fill="#d2dce3"/><circle cx="-22" cy="-19" r="3" fill="#bcb6dc"/><circle cx="23" cy="15" r="3" fill="#bcb6dc"/></g>
+</svg>

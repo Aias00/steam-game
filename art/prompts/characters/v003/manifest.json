@@ -1,0 +1,108 @@
+{
+  "version": "v003",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "requested_size": "1024x1536",
+  "status": "concepts_completed_not_approved_yet",
+  "items": [
+    {
+      "id": "guard",
+      "name": "岩灯 · 灯卫",
+      "prompt_file": "art/prompts/characters/v003/guard.prompt.txt",
+      "prompt_sha256": "fe7b0c16265cda351ac108fd63dcb74847ecdbdb6d113f7482b7a2840f5141e4",
+      "references": [
+        {
+          "file": "output/imagegen/characters-v001/jiyue-v001.png",
+          "sha256": "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0"
+        },
+        {
+          "file": "output/imagegen/characters-v001/luodeng-v001.png",
+          "sha256": "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+        }
+      ],
+      "output": "output/imagegen/characters-v003/guard-concept.png",
+      "status": "generated_reviewed_and_portraits_derived",
+      "actual_size": [
+        1024,
+        1536
+      ],
+      "output_sha256": "b7aa239e46b0361830d625af99a0ca378474d6d0665916aa295d3a46d4190286",
+      "avatar_crop": [
+        235,
+        0,
+        670,
+        435
+      ],
+      "avatar_method": "deterministic crop of generated concept; no face regeneration",
+      "runtime_sprite_available": false
+    },
+    {
+      "id": "ranger",
+      "name": "逐隼 · 巡迹者",
+      "prompt_file": "art/prompts/characters/v003/ranger.prompt.txt",
+      "prompt_sha256": "d9dfcc73271e72db5e951c05861f81467dc0a4bdf8160b535af9a8b36ae22ab7",
+      "references": [
+        {
+          "file": "output/imagegen/characters-v001/jiyue-v001.png",
+          "sha256": "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0"
+        },
+        {
+          "file": "output/imagegen/characters-v001/luodeng-v001.png",
+          "sha256": "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+        }
+      ],
+      "output": "output/imagegen/characters-v003/ranger-concept.png",
+      "status": "generated_reviewed_and_portraits_derived",
+      "actual_size": [
+        1024,
+        1536
+      ],
+      "output_sha256": "c38fb1980109350a88c72f4fcbf7745e1337d739988d533f7839dcec2490f1a7",
+      "avatar_crop": [
+        265,
+        0,
+        720,
+        455
+      ],
+      "avatar_method": "deterministic crop of generated concept; no face regeneration",
+      "runtime_sprite_available": false
+    },
+    {
+      "id": "engineer",
+      "name": "砾砂 · 织星匠",
+      "prompt_file": "art/prompts/characters/v003/engineer.prompt.txt",
+      "prompt_sha256": "f844e31f3e35284200265b679c7e3983b0563882b68d12d42d6ee6a5a827a28c",
+      "references": [
+        {
+          "file": "output/imagegen/characters-v001/jiyue-v001.png",
+          "sha256": "28daccedbdc367a31ab07951f2006df95a972dd19dece3bb0a4146ac1e645ab0"
+        },
+        {
+          "file": "output/imagegen/characters-v001/luodeng-v001.png",
+          "sha256": "c32e2064eb710ae1155810bb533687f898d1790df141d5178a92c2793bd2fc7a"
+        }
+      ],
+      "output": "output/imagegen/characters-v003/engineer-concept.png",
+      "status": "generated_reviewed_and_portraits_derived",
+      "actual_size": [
+        1024,
+        1536
+      ],
+      "output_sha256": "02e4fc0ce25e9daac6ba6315f5b72f57828e3a97425ed657a4dcae01ecd5351f",
+      "avatar_crop": [
+        350,
+        55,
+        835,
+        540
+      ],
+      "avatar_method": "deterministic crop of generated concept; no face regeneration",
+      "runtime_sprite_available": false
+    }
+  ],
+  "review_notes": [
+    "All three match the warm painterly presentation and show exposed individual faces.",
+    "Guardian is heavier with lantern-shield, ranger lean with carbine, engineer compact with backpack lamps.",
+    "Engineer reference intended small wrench but output tool is larger; simplify for gameplay pose.",
+    "New concepts await user art-direction approval. No animation, combat sprite or role passive implementation claimed."
+  ]
+}
